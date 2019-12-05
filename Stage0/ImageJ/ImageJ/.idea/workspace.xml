@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28fe4cac-1667-4c83-935c-8ad478e818e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.9.1.20180912-1601.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ImageJ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageJ.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageJ.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid18244.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ij.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/THIRDPARTYLICENSEREADME-JAVAFX.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/THIRDPARTYLICENSEREADME.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/Welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/JAWTAccessBridge-64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/JavaAccessBridge-64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/WindowsAccessBridge-64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/attach.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/awt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/bci.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/dcpr.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/decora_sse.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/deploy.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/dt_shmem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/dt_socket.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/dtplugin/deployJava1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/dtplugin/npdeployJava1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/eula.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/fontmanager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/fxplugins.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/glass.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/glib-lite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/gstreamer-lite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/hprof.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/instrument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/j2pcsc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/j2pkcs11.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jaas_nt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jabswitch.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/java-rmi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/java.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/java.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/java_crw_demo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/javacpl.cpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/javacpl.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/javafx_font.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/javafx_font_t2k.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/javafx_iio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/javaw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/javaws.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jawt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jdwp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jfr.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jfxmedia.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jfxwebkit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jjs.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jli.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jp2iexp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jp2launcher.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jp2native.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jp2ssv.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jpeg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jsdt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jsound.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/jsoundds.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/kcms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/keytool.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/kinit.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/klist.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/ktab.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/lcms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/management.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/mlib_image.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/msvcp120.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/msvcr100.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/msvcr120.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/net.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/nio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/npt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/orbd.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/pack200.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/plugin2/msvcr100.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/plugin2/npjp2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/policytool.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/prism_common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/prism_d3d.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/prism_sw.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/resource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/rmid.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/rmiregistry.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/sawindbg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/server/Xusage.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/server/classes.jsa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/server/jvm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/servertool.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/splashscreen.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/ssv.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/ssvagent.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/sunec.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/sunmscapi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/t2k.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/tnameserv.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/unpack.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/unpack200.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/verify.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/w2k_lsa_auth.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/wsdetect.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/bin/zip.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/accessibility.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/amd64/jvm.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/calendars.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/charsets.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/classlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/cmm/CIEXYZ.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/cmm/GRAY.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/cmm/LINEAR_RGB.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/cmm/PYCC.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/cmm/sRGB.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/content-types.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/currency.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/ffjcext.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/messages_de.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/messages_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/messages_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/messages_it.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/messages_ja.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/messages_ko.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/messages_pt_BR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/messages_sv.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/messages_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/messages_zh_HK.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/messages_zh_TW.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/splash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/splash@2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/splash_11-lic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/deploy/splash_11@2x-lic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/ext/access-bridge-64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/ext/cldrdata.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/ext/dnsns.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/ext/jaccess.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/ext/jfxrt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/ext/localedata.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/ext/meta-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/ext/nashorn.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/ext/sunec.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/ext/sunjce_provider.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/ext/sunmscapi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/ext/sunpkcs11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/ext/tools.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/ext/zipfs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/flavormap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/fontconfig.bfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/fontconfig.properties.src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/fonts/LucidaBrightDemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/fonts/LucidaBrightDemiItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/fonts/LucidaBrightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/fonts/LucidaBrightRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/fonts/LucidaSansDemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/fonts/LucidaSansRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/fonts/LucidaTypewriterBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/fonts/LucidaTypewriterRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/hijrah-config-umalqura.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/images/cursors/cursors.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/images/cursors/invalid32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/images/cursors/win32_CopyDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/images/cursors/win32_CopyNoDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/images/cursors/win32_LinkDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/images/cursors/win32_LinkNoDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/images/cursors/win32_MoveDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/images/cursors/win32_MoveNoDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/javafx.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/javaws.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/jce.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/jfr.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/jfr/default.jfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/jfr/profile.jfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/jfxswt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/jsse.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/jvm.hprof.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/management-agent.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/management/jmxremote.access" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/management/jmxremote.password.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/management/management.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/management/snmp.acl.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/meta-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/net.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/psfont.properties.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/psfontj2d.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/resources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/security/US_export_policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/security/blacklist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/security/blacklisted.certs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/security/cacerts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/security/java.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/security/java.security" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/security/javaws.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/security/local_policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/security/trusted.libraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/sound.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/tzdb.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jre/lib/tzmappings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/16_Colors.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/5_Ramps.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/6_Shades.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/BRGBCMYW.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Blue_Orange_icb.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Cool.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Cyan_Hot.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Edges.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Gem.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Glasbey.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Green_Fire_Blue.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/HiLo.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/ICA.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/ICA2.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/ICA3.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Jet.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Magenta_Hot.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Orange_Hot.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Phase.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Red_Hot.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Royal.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Sepia.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Smart.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Thal.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Thallium.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/UnionJack.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luts/Viridis.lut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/AA_ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/About Startup Macros" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/AnimatedGaussianBlur.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/AnimationMacros.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/BatchModeCalculator.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/BatchModeTest.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Calculations.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/CompositeSelections.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/ConvertOverlayToIcon.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/CreateImageFromFunction.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Custom_Profile_Plot.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/DisplayWindowTitles.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/DoWandDemo.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/EllipseCalibration.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/ExamplePlots.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/BeanShell/Arrow_Plot.bsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/BeanShell/Example_Plot.bsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/BeanShell/Semi-log_Plot.bsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/BeanShell/Sine_Cosine_Table.bsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/BeanShell/Sphere.bsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/BeanShell/Synthetic_Image.bsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Images/Tree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Images/Tree2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Java/Filter_Plugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Java/Gamma_Adjuster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Java/My_Plugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Java/Plasma_Cloud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Java/Plugin_Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Java/Prototype_Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Java/Sphere_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Java/Synthetic_Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/JavaScript/Arrow_Plot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/JavaScript/Batch_Process_Folder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/JavaScript/Cloud_Debugger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/JavaScript/Dual_Progress_Bars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/JavaScript/Example_Plot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/JavaScript/Gamma_Adjuster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/JavaScript/Non-numeric_Table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/JavaScript/Overlay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/JavaScript/Plasma_Cloud.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/JavaScript/Semi-log_Plot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/JavaScript/Sine_Cosine_Table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/JavaScript/Sphere.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/JavaScript/Stack_Overlay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/JavaScript/Synthetic_Image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Array_Functions.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Arrow_Plot.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Batch_Process_Folder.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Circle_Tool.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Dialog_Box.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Dual_Progress_Bars.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Example_Plot.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Grab_Viridis_Colormap.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Hello_World.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Non-numeric_Table.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/OpenDialog_Demo.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Overlay.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Semi-log_Plot.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Sine_Cosine_Table.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Sphere.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Stack_Overlay.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Star_Tool.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Macro/Synthetic_Image.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Python/Animated_Gaussian_Blur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Python/Overlay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Python/Rotational_Animation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Python/Sphere.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Python/Synthetic_Image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Examples/Python/option_d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/FFTCustomFilterDemo.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/FilterTester.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/FilterTesterTasklist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/FixLineEndings.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Fonts.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/GetDirectoryDemo.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/HtmlDialogDemo.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/KeyboardShortcuts.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/LogWindowTricks.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/MakeMontage.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/MakeSelectionDemo.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/RandomOvals.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/RegressionTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/RegressionTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/RoiManagerMacros.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/RoiManagerMoveSelections.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/Snake.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/StartupMacros.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/toolsets/Arrow Labelling Tools.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/toolsets/Built-in Tools.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/toolsets/Drawing Tools.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/toolsets/Magic Montage.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/toolsets/Scale Bar Tools for Microscopes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/toolsets/Stack Tools.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/3D/Interactive_3D_Surface_Plot.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/3D/Stack 3D Surface Plot.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/3D/Volume_Viewer.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Analyze/Batch_Measure.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Analyze/Cell_Counter_Notice.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Analyze/Grid_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Analyze/Grid_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Analyze/Measure_And_Label.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Analyze/RGB_Measure.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/IP_Demo$Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/IP_Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/IP_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/Image_Inverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/Image_Inverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/Red_And_Blue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/Red_And_Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/Transparent_Image_Overlay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/Transparent_Image_Overlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/About_These_Macros.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/AnnularSelection.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/ArrayFunctions.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/BlinkingText.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/BullsEye.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/CellCounting.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/CreateColorGradient.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/CreateOverlay.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/Create_Synthetic_Image.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/CurveFittingDemo.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/DialogWithHelp.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/DrawParticleEllipseAxis.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/Grid_Overlay.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/LabelLanesWithRotatedText.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/MakeOverlayijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/Non-numeric_Results.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/Overlay_Polygons.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/PlotSigmoidDerivatives.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/PolynomialFit.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/Pong.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/RoiFunctionsDemo.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/RotatedText.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/RotationalAnimation.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/Table_Tricks.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/TextOverlay.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/ThreeColorPlot.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Macros/ZoomToRoiDemo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/About Scripts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/About_These_Scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/AlwaysOnTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/AutoThresholding_Demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/Buffered_Image_Roi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/Create_Overlay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/Draw_Fill_Demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/Example_Plots.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/JustifiedText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/OrthoViewsDemo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/Roi_Tricks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/Rois_To_Overlay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/RotatedText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/SubPixelSelections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Examples/_Scripts/Text_Overlay3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Color_Transformer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Color_Transformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Enhance_Local_Contrast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Enhance_Local_Contrast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Fast_Filters$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Fast_Filters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Fast_Filters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Fit_Polynomial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Fit_Polynomial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Floyd_Steinberg_Dithering.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Floyd_Steinberg_Dithering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Hill_Shade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Hill_Shade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Mexican_Hat_Filter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Mexican_Hat_Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Filters/Signed_16-bit_to_Unsigned.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Graphics/Averaging_Reducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Graphics/Averaging_Reducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Graphics/Example_Plot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Graphics/Example_Plot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Graphics/RGB_Profile_Plot.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/Biorad_Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/Biorad_Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/DM3_Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/DM3_Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/Deltavision_Opener.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/Exif_Reader.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/HandleExtraFileTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/HandleExtraFileTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/IPLab_Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/IPLab_Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/LSM_Reader.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/Save_As_48-bit_RGB_Tiff.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/ZVI_Reader$ZVIBlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/ZVI_Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/ZVI_Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Input-Output/nifti_io.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Scripts/BeanShell_Animation.bsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Scripts/Find_Max_Pixel_Location.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Scripts/Java_Properties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Scripts/List_Files_Recursively.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Scripts/List_Online_Macros.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Scripts/List_Selection_Coordinates.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Scripts/Mandelbrot.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Scripts/Non-Numeric_Results_Table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Scripts/Python_Animation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Scripts/Rotating_Polygon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Stacks/Kalman_Stack_Filter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Stacks/Kalman_Stack_Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Stacks/Make_Ellipsoid.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Stacks/Make_Sphere.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Stacks/Measure_Hyperstack.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Stacks/Measure_Stack.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Stacks/Time-Lapse_Color_Coder.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Tools/About_These_Tools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Tools/Bezier_Tool.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Tools/Find_JAR_for_Class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Tools/Find_JAR_for_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Tools/Fixed_Length_Line_Tool.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Tools/Line_Profile_Tool.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Tools/Lookup_Tables_Action_Tool.ijm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Tools/Window_Level_Tool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/Tools/Window_Level_Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/jars/Auto_Threshold.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/jars/BeanShell.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stage3/.project" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/plugins/Binary_Layers/jjlkjlkj" />
+        <option value="$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_1" />
+        <option value="$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_2" />
+        <option value="$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_3" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="22" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575549373799" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nelsm\Desktop\07_Fall_2019\Image Processing\Project\Stage0\ImageJ\ImageJ\plugins\Binary_Layers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28fe4cac-1667-4c83-935c-8ad478e818e3" name="Default Changelist" comment="" />
+      <created>1566974499768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566974499768</updated>
+      <workItem from="1566974501058" duration="676000" />
+      <workItem from="1570588210962" duration="101000" />
+      <workItem from="1575546936967" duration="1913000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2690000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5057283" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/plugins/Binary_Layers/hjkh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_0">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_0">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/Binary_Layers/Binary_Layer_1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ImageJ</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
