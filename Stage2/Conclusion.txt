@@ -1,0 +1,3 @@
+In my opinion the image 84-11 is the best one after usage of 4 binary filter layers. 
+All 4 new images are the closest ones to the example in the project.pdf file.
+So I am going to compute RGB ans HSV comulative histograms for the 84-11 image an than match that histograms to the other images.
