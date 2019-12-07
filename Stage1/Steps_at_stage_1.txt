@@ -1,0 +1,68 @@
+***Image-83-11
+**Binary_layer_1
+		*Version_1 => Median(4); Maximum(2); Minimum(2); Median(3); Maximum(3);
+**Binary_layer_2
+		*Version_1 => Median(3); Minimum(1); Medium(1);
+**Binary_layer_3
+		*Version_1 => Minimum(1); Minimum(1); Medium(3);
+**Binary_layer_4
+		*Version_1 => Minimum(2); Mean(1); Minimum(2); Unsharp Mask(2, 0.99);
+
+#########################################################################################################
+
+***Image-84-11
+**Binary_layer_1
+		*Version_1 => Maximum(1); Minimum(1); Minimum(1); Minimum(1); Median(4);
+		*Version_2 => Median(3); Maximum(2); Median(2); Medium(2); Maximum(2); Median(3); Median(6);
+**Binary_layer_2
+		*Version_1 => Maximum(1); Median(2); Maximum(1); Minimum(3); Median(2);
+		*Version_2 => Median(1); Median(1); Median(1); Median(1); Median(4); Mean(1); Minimum(1); Median(3); Median(3);
+**Binary_layer_3
+		*Version_1 => Minimum(2); Median(5); Maximum(2);
+		*Version_2 => Mean(1); Minimum(2); Median(5); Minimum(2); Maximum(3); Medium(2); Median(2); Unsharp Mask(1, 0.99); Minimum(1)
+**Binary_layer_4
+		*Version_1 => Minimum(2); Mean(2); Median(2); Minimum(2); Unsharp Mask(6, 0.99);
+
+#########################################################################################################
+
+***Image-85-11
+**Binary_layer_1
+		*Version_1 => Median(3); Maximum(1); Median(3); Maximum(1); Median(3); Minimum(1);
+		*Version_2 => Maximum(2); Median(2); Minimum(2); Median(4); Maximum(3);
+**Binary_layer_2
+		*Version_1 => Minimum(1); Median(2); Maximum(2); Median(2); Minimum(2); Median(2);
+		*Version_2 => Median(2); Maximum(2); Minimum(2); Median(5);
+**Binary_layer_3
+		*Version_1 => Minimum(1); Median(1); Minimum(1); Maximum(1); Minimum(1);
+		*Version_2 => Minimum(2); Minimum(3); Median(5); Maximum(2);
+**Binary_layer_4
+		*Version_1 => Minimum(2); Median(2); Maximum(1);
+
+#########################################################################################################
+
+***Image-86-11
+**Binary_layer_1
+		*Version_1 => Median(4); Median(4); Median(4); Median(4); Maximum(2); Median(4); Median(4);
+		*Version_2 => Mean(2); Median(4); Maximum(3); Median(9), Maximum(3); Minimum(3); Unsharp Mask(17, 0.99);
+**Binary_layer_2
+		*Version_1 => Maximum(2); Mean(2); Median(4); Median(4); Minimum(2); Median(4); Median(4); Unsharp Mask(9, 0.99);
+		*Version_2 => Median(3); Median(3); Maximum(1); Median(3); Median(3);
+		*Version_3 => Minimum(2); Maximum(1); Minimum(1); Maximum(1); Maximum(1); Median(3); Maximum(1); Median(1);
+**Binary_layer_3
+		*Version_1 => Minimum(1); Median(1); Minimum(1); Median(1); Maximum(1);
+		*Version_2 => Minimum(1); Mean(2); Median(3); Minimum(1); Median(5); Unsharp Mask(6, 0.99);
+**Binary_layer_4
+		*Version_1 => Minimum(1); Mean(1); Median(3); Median(1); Unsharp Mask(5, 0.99);
+
+
+
+
+
+
+
+
+
+
+
+
+	 
