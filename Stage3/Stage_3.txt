@@ -1,0 +1,3 @@
+After testing binary filters and after smothening the results, I noticed that at the end in almost all the results I can find the at least 3 cycles or ovals in the middle of the face.
+These cycles coresponds to eyes and mouth(or lips). This cyclic object located on the fixed position in the whole picutre regardles each other. So as the main problem this project is trying to solve is
+to detect the face or some part of it by pixels vaalues, I can suggest to start the detection process from the conturs and then try to find 3 or in some cases 2(rotated face (1 eye, 1 mouth)) cyclic objects. 

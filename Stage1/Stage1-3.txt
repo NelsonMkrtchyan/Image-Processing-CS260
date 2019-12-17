@@ -1,0 +1,3 @@
+In both Cases I used Binary Layer 2 , to detect the lips and contures of the nose and ears. I noticed that the heaight 
+between lips (maximal horizontal distance) is quite similar in the photoes of the same person, and his face rotation angle or the fact of smiling does not change anything.
+SO I can say that despite any rotation or smiling, the maximal distance between upper and lower lips will be the same, and always visible.
